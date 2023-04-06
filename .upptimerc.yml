@@ -13,7 +13,7 @@ status-website:
   name: "Hexagonn Project Status"
   theme: "night"
   cname: status
-  logoUrl: https://raw.githubusercontent.com/hexaaagon/web-uptime/master/assets/icon.png
+  baseUrl: /status
   introTitle: "Welcome to **Hexagonn Project Status!**"
   introMessage: "This is **Hexagonn Project Status** for viewing my Project either is online or not!"
   css: 'nav{animation:1s ease-in-out fadeInDown}main{animation:1s ease-in-out fadeIn}'
