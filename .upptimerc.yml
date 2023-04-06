@@ -12,8 +12,7 @@ sites:
 status-website:
   name: "Hexagonn Project Status"
   theme: "night"
-  cname: status
-  baseUrl: /status
+  cname: status.hexagonn.my.id
   introTitle: "Welcome to **Hexagonn Project Status!**"
   introMessage: "This is **Hexagonn Project Status** for viewing my Project either is online or not!"
   css: 'nav{animation:1s ease-in-out fadeInDown}main{animation:1s ease-in-out fadeIn}'
