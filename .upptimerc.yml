@@ -8,6 +8,8 @@ sites:
   - name: "Web - CDN Website"
     url: https://cdnsites.hexaa11222474.workers.dev/
     maxResponseTime: 7500
+  - name: "Web - Nginx Proxy Manager"
+    url: https://npm.hexagonn.my.id/
 
 status-website:
   name: "Hexagonn Project Status"
