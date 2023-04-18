@@ -40,17 +40,19 @@
     "url": "https://npm.hexagonn.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/npm.hexagonn.my.id.ico",
     "slug": "web-nginx-proxy-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1104,
-    "timeDay": 1104,
-    "timeWeek": 1151,
-    "timeMonth": 1104,
-    "timeYear": 1104,
-    "dailyMinutesDown": {}
+    "time": 1036,
+    "timeDay": 632,
+    "timeWeek": 1027,
+    "timeMonth": 1036,
+    "timeYear": 1036,
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   }
 ]
