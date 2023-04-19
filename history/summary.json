@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 168,
-    "timeWeek": 108,
+    "timeDay": 125,
+    "timeWeek": 112,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1099,
-    "timeDay": 1353,
-    "timeWeek": 421,
-    "timeMonth": 1099,
-    "timeYear": 1099,
+    "time": 1051,
+    "timeDay": 286,
+    "timeWeek": 422,
+    "timeMonth": 1051,
+    "timeYear": 1051,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/npm.hexagonn.my.id.ico",
     "slug": "web-nginx-proxy-manager",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 632,
-    "timeWeek": 1027,
-    "timeMonth": 1036,
-    "timeYear": 1036,
+    "uptime": "95.91%",
+    "uptimeDay": "49.25%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
+    "time": 983,
+    "timeDay": 198,
+    "timeWeek": 913,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2023-04-18": 0
+      "2023-04-19": 73,
+      "2023-04-18": 657
     }
   }
 ]
