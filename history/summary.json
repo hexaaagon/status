@@ -40,18 +40,19 @@
     "url": "$NPM_WEB_ADMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-nginx-proxy-manager",
-    "status": "up",
-    "uptime": "98.14%",
+    "status": "down",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.65%",
-    "uptimeYear": "98.14%",
+    "uptimeYear": "98.16%",
     "time": 608,
-    "timeDay": 366,
+    "timeDay": 348,
     "timeWeek": 408,
     "timeMonth": 462,
     "timeYear": 608,
     "dailyMinutesDown": {
+      "2023-05-15": 0,
       "2023-04-19": 373,
       "2023-04-18": 657
     }
